@@ -1,0 +1,18 @@
+[submodule "server-data"]
+	path = server-data
+	url = git@github.com:eandres8/jv-ecommerce-config-server-data.git
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:eandres8/jv-ecommerce-order-service.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:eandres8/jv-ecommerce-product-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:eandres8/jv-ecommerce-inventory-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:eandres8/jv-ecommerce-api-gateway.git
+[submodule "config-server-data"]
+	path = config-server-data
+	url = git@github.com:eandres8/jv-ecommerce-config-server-data.git
