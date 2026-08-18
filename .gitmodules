@@ -13,6 +13,3 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:eandres8/jv-ecommerce-api-gateway.git
-[submodule "config-server-data"]
-	path = config-server-data
-	url = git@github.com:eandres8/jv-ecommerce-config-server-data.git
