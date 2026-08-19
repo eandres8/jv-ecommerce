@@ -19,3 +19,6 @@
 [submodule "notification-service"]
 	path = notification-service
 	url = git@github.com:eandres8/jv-ecommerce-notification-service.git
+[submodule "service-discovery"]
+	path = service-discovery
+	url = git@github.com:eandres8/jv-ecommerce-service-discovery-server.git
