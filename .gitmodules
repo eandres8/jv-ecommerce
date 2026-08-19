@@ -16,3 +16,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = git@github.com:eandres8/jv-ecommerce-config-server.git
+[submodule "notificaiton-service"]
+	path = notificaiton-service
+	url = git@github.com:eandres8/jv-ecommerce-notification-service.git
