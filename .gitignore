@@ -1,3 +1,4 @@
 .env
 .store-local/
 .DS_Store
+.idea
