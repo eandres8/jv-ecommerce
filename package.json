@@ -8,7 +8,8 @@
     "docker:start": "docker compose up -d",
     "docker:down": "docker compose down -v",
     "docker:rm:orderdb-order-items": "docker exec -it order-db psql -U root -d order-db -c \"DROP TABLE t_order_line_items;\"",
-    "docker:rm:orderdb-orders": "docker exec -it order-db psql -U root -d order-db -c \"DROP TABLE t_orders;\""
+    "docker:rm:orderdb-orders": "docker exec -it order-db psql -U root -d order-db -c \"DROP TABLE t_orders;\"",
+    "rabbitmq:plugins": "docker exec -it rabbitmq rabbitmq-plugins enable rabbitmq_shovel rabbitmq_shovel_management"
   },
   "repository": {
     "type": "git",
